@@ -1,0 +1,40 @@
+*{
+   background-color:#cae6f4;
+}
+
+#main-heading{
+    font-family: 'Sofia';font-size: 80px;
+    color: #0c4560;
+    text-align: center;
+    padding-bottom: 40px;
+    
+}
+
+hr{
+    width: 60%;
+}
+#menu li {
+    font-family: 'Acme';font-size: 30px;
+    color: #3283a8;
+    padding-bottom: 10px;
+}
+
+#menu li a  {
+    text-decoration: none;
+    cursor: pointer;
+    color: #3283a8;
+}
+
+.center{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+.p-text {
+    font-family: 'ABeeZee';font-size: 22px;
+}
+
+h1 {
+    color: #3283a8; 
+    font-family: 'Acme';font-size: 30px;
+}
